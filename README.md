@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### ✨About Me✨
 
-##### Hi there, my name is Nasima Tamboli. I am a Software Engineer, currentyly learning Java and working on building some exciting Java projects. My areas of interest are Software developement, Artificial Intelligence and Machine Learning.
+##### Hi there, my name is Nasima Tamboli. I am a Software Engineer, currentyly learning Java, JavaScript, CSS, HTML and working on building some exciting projects. My areas of interest are Software developement, Artificial Intelligence and Machine Learning.
 
 ### 🤝Connect with me
 
