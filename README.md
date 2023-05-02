@@ -1,7 +1,7 @@
 ## Welcome to my GitHub page 👋
 
 <!--
-**nasimatamboli/NasimaTamboli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**nasimatamboli/NasimaTamboli** is a ✨   _special_   ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### ✨About Me✨
 
-##### Hi there, my name is Nasima Tamboli. I am a Software Engineer, currentyly learning Java, JavaScript, CSS, HTML and working on building some exciting projects. My areas of interest are Software developement, Artificial Intelligence and Machine Learning.
+##### Hi there, my name is Nasima Tamboli. I am a Software Engineer, currentyly learning Java, JavaScript, CSS, HTML and working on building some exciting projects. My areas of interest are Software development, Artificial Intelligence and Machine Learning.
 
 ### 🤝Connect with me
 
